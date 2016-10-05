@@ -11,6 +11,7 @@ public class Selenium_Test {
 			
 			FirefoxDriver driver = new FirefoxDriver();
 			driver.get("http://www.google.com");
+			driver.get("http://www.paypal.com");
 			//WebElement test = driver.findElementById("gb_70");
 			//test.click();
 			         }
