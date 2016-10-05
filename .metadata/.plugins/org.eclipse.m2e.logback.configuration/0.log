@@ -49,3 +49,11 @@
 2016-10-04 20:06:11,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
 2016-10-04 20:06:11,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-10-04 20:06:11,553 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:14:09,429 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:14:09,429 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:14:09,430 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:14:09,430 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:15:08,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:15:08,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:15:08,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:15:08,900 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
