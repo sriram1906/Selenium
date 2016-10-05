@@ -1,0 +1,51 @@
+2016-10-04 19:59:12,086 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/sriram/Documents/Selenium_repo/Selenium/Core.Hybrid/pom.xml
+2016-10-04 19:59:12,799 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Selenium.Framework:Core.Hybrid:0.0.1-SNAPSHOT @ /Users/sriram/Documents/Selenium_repo/Selenium/Core.Hybrid/pom.xml.
+2016-10-04 19:59:13,194 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Core.Hybrid/src/main/java
+2016-10-04 19:59:13,196 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Core.Hybrid/src/test/java
+2016-10-04 19:59:13,709 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-10-04 19:59:14,232 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 19:59:14,233 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Core.Hybrid/src/main/resources
+2016-10-04 19:59:14,235 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 19:59:14,235 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Core.Hybrid/src/test/resources
+2016-10-04 20:00:22,032 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/pom.xml
+2016-10-04 20:00:22,248 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Hybrid:Selenium.Framework:0.0.1-SNAPSHOT @ /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/pom.xml.
+2016-10-04 20:00:22,427 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium.Framework/src/main/java
+2016-10-04 20:00:22,429 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium.Framework/src/test/java
+2016-10-04 20:00:22,447 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-10-04 20:00:22,786 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:00:22,786 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:00:22,788 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:00:22,788 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:01:25,956 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Hybrid:Selenium.Framework:0.0.1-SNAPSHOT @ /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/pom.xml.
+2016-10-04 20:01:26,248 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:01:26,248 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:01:26,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:01:26,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:01:27,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:01:27,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:01:27,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:01:27,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:03:29,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:03:29,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:03:29,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:03:29,809 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:03:54,723 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:03:54,723 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:03:54,724 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:03:54,724 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:04:56,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:04:56,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:04:56,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:04:56,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:05:09,664 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:05:09,665 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:05:09,666 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:05:09,666 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:05:54,151 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:05:54,151 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:05:54,152 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:05:54,152 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
+2016-10-04 20:06:11,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:06:11,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/main/resources
+2016-10-04 20:06:11,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-04 20:06:11,553 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sriram/Documents/Selenium_repo/Selenium/Selenium.Framework/src/test/resources
