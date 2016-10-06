@@ -5,27 +5,36 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public  class GenericKeywords {
 	public Properties prop;
+	public FirefoxDriver driver;
 	
 	
 	public GenericKeywords() throws IOException{
-		Properties prop = new Properties();
+		 prop = new Properties();
+		 driver = new FirefoxDriver();
 		//InputStream inputStream = getClass().getClassLoader().getResourceAsStream("src/test/resources/Properties");
 		FileInputStream fs = new FileInputStream(System.getProperty("user.dir")+"//src//test/resources//Properties");
 		prop.load(fs);
+		 
 		
 	}
 
-	public void openBrowser() {
+	public void openBrowser() throws InterruptedException {
 		
-		FirefoxDriver driver = new FirefoxDriver();
-		System.out.println(prop.getProperty("geturl"));
+		driver.get(prop.getProperty("geturl"));
 		
+	}
+	
+	public void inputTextbox() {
+		WebElement test1 = driver.findElement(By.id(prop.getProperty("gmailfirstname_textbox")));
+		test1.sendKeys("India");
 		
 	}
 

@@ -9,16 +9,13 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Selenium_Test {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, InterruptedException {
 		
 		    GenericKeywords g1 = new GenericKeywords();
-		    Properties prop = new Properties();
-			//InputStream inputStream = getClass().getClassLoader().getResourceAsStream("src/test/resources/Properties");
-			FileInputStream fs = new FileInputStream(System.getProperty("user.dir")+"//src//test/resources//Properties");
-			prop.load(fs);
-			System.out.println(prop.getProperty("geturl"));
-		    //g1.openBrowser();
-		    //g1.openBrowser();
+		   
+		    g1.openBrowser();
+		    Thread.sleep(5000);
+		    g1.inputTextbox();
 //			FirefoxDriver driver = new FirefoxDriver();
 //			driver.get("http://www.google.com");
 //			driver.get("http://www.paypal.com");
