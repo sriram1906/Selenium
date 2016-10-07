@@ -1,0 +1,10 @@
+package Hybrid.Selenium.Framework;
+
+import org.testng.annotations.Test;
+
+public class Testcases {
+  @Test
+  public void Launchurl() {
+	  GenericKeywords.openBrowser("url");
+  }
+}

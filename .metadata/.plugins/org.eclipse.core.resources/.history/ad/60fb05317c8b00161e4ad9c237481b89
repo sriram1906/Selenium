@@ -1,0 +1,36 @@
+package Hybrid.Selenium.Framework;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public  class GenericKeywords {
+	public Properties prop;
+	FirefoxDriver driver = new FirefoxDriver();
+	
+	
+	public GenericKeywords() throws IOException{
+		 prop = new Properties();
+		//InputStream inputStream = getClass().getClassLoader().getResourceAsStream("src/test/resources/Properties");
+		FileInputStream fs = new FileInputStream(System.getProperty("user.dir")+"//src//test/resources//Properties");
+		prop.load(fs);
+		 
+		
+	}
+
+	public void openBrowser() {
+		
+		driver.get(prop.getProperty("geturl"));
+	}
+	
+	public void inputTextbox() {
+		WebElement test1 = driver.findElement(By.id("FirstName"));
+	}
+
+}

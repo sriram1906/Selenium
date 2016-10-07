@@ -1,0 +1,17 @@
+package Hybrid.Selenium.Framework;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public  class GenericKeywords {
+
+	public static void openBrowser() {
+		
+		FirefoxDriver driver = new FirefoxDriver();
+		driver.get("url");
+		
+		
+	}
+
+}

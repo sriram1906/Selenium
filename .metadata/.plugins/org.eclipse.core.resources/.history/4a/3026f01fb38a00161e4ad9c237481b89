@@ -1,0 +1,27 @@
+package Hybrid.Selenium.Framework;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Selenium_Test {
+
+	public static void main(String[] args) throws IOException {
+		
+		    GenericKeywords g1 = new GenericKeywords();
+		    
+		    //g1.openBrowser();
+		    g1.openBrowser();
+//			FirefoxDriver driver = new FirefoxDriver();
+//			driver.get("http://www.google.com");
+//			driver.get("http://www.paypal.com");
+//			driver.get("http://www.cnn.com");
+//			//WebElement test = driver.findElementById("gb_70");
+			//test.click();
+			         }
+			
+
+	
+
+}
